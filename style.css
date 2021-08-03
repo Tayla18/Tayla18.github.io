@@ -1,0 +1,22 @@
+body{
+  background: url("https://i.pinimg.com/originals/fa/e6/dc/fae6dc7ce6b464c11bca87f28e9567db.jpg");
+
+  background-size: 
+  cover;
+  color:white;
+}
+img {
+  height:120px
+}
+.left-aligned {
+	text-align: left;
+}
+.right-aligned{
+	text-align: right;
+}
+li{
+	list-style: none;
+	font-size: 25px;
+}
+
+
